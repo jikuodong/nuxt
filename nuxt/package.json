@@ -1,7 +1,7 @@
 {
   "name": "nuxt",
   "version": "1.0.0",
-  "description": "搭建nuxt项目�",
+  "description": "搭建nuxt项目",
   "author": "姬阔东",
   "private": true,
   "scripts": {
@@ -13,10 +13,11 @@
     "precommit": "npm run lint"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.0.0",
     "express": "^4.16.3",
-    "@nuxtjs/axios": "^5.0.0"
+    "iview": "^3.2.0",
+    "nuxt": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "^1.11.0",
