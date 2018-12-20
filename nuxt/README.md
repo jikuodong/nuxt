@@ -1,6 +1,6 @@
 # nuxt
 
-> 搭建nuxt项目�
+> 搭建nuxt项目
 
 ## Build Setup
 
